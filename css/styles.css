@@ -1,0 +1,43 @@
+html{
+  position: relative;
+}
+
+h1 {
+  color: red;
+  text-align: center;
+}
+
+.education{
+padding-left: 30px;
+}
+
+.work {
+padding-left: 60px;
+}
+
+.skills {
+padding-left: 100px;
+}
+
+.things {
+  font-weight: bold;
+  font-style: italic;
+}
+
+.botton-line {
+  border-bottom: 1px solid black;
+  width: 80%;
+  margin: auto;
+}
+
+.best{
+  text-decoration: underline;
+  font-weight: 700;
+  color:red;
+}
+
+.work-work {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  color: crimson;
+  font-size: 19px;
+}
